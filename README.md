@@ -20,3 +20,6 @@ The extension when installed, gives you a random thought to be think upon, every
 
 [background-image]: https://github.com/bshikhar13/RestLite/blob/master/css/background2.jpg "Being Motivated"
 
+![alt text][sample-image]
+
+[sample-image]: https://github.com/bshikhar13/RestLite/blob/master/images/sample-face.PNG "Being Motivated"
