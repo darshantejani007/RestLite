@@ -11,8 +11,7 @@ The extension when installed, gives you a random thought to be think upon, every
 1. Download the complete project
 2. Goto Settings tab in Chrome
 3. Goto Extensions link in the left panel
-4. Download the complete project
-5. Drag the Folder from the File system to the "extensions window in Chrome".
+4. Drag the Folder from the File system to the "extensions window in Chrome".
 
 
 
