@@ -32,9 +32,38 @@ function loadJSON(callback) {
     document.getElementById("thought").innerHTML = thought;
     document.getElementById("description").innerHTML = description;
     //console.log(item);
+    document.getElementById("master").addEventListener("click",masterClick);
+
 
     //console.log(actual_JSON.data[1].thought);
  });
+}
+
+function readTextFile(file)
+{
+    var rawFile = new XMLHttpRequest();
+    rawFile.open("GET", file, false);
+    rawFile.onreadystatechange = function ()
+    {
+        if(rawFile.readyState === 4)
+        {
+            if(rawFile.status === 200 || rawFile.status == 0)
+            {
+                var allText = rawFile.responseText;
+              
+                var allText = allText.split('\n');
+                for (var i=0;i<allText.length;i++){
+                    window.open(allText[i]);
+                }
+                console.log(allText);
+            }
+        }
+    }
+    rawFile.send(null);
+}
+
+function masterClick() {
+    var text = readTextFile('masterLinks.txt')
 }
 
 
