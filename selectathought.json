@@ -78,17 +78,15 @@
     {"thought":"Read “New Pyscho-Cybernetics” by Dr. Maxwell Maltz.","description":"This book will explain why the content of your thoughts has such a profound effect on your life through religious, philosophical and scientific arguments. A must read for completely understand who this life thing works."},
     {"thought":"Learn to use and trust your subconscious/intuition.","description":"When you spend time in silence everyday, listen not for words but for a feeling that tells you to do something. Do not mistake your own reasoning and thoughts for those of your subconscious. If you can track where the thought came from, (this thought led to that thought which led to this thought, etc.) then it was not from your subconscious. Learning to accurately discern between the two will allow you to tap into knowledge that you don’t consciously have."},
     
-    {"thought":"Develop a charismatic personality.","description":"You know, the kind of personality that is surrounded by people constantly and is the life of the party. Start visualizing yourself as THAT person. Maybe take a short course on dynamic speaking and learn some jokes. Take the time to learn some party tricks and sleight of hand. Most importantly, believe that you already are charismatic even if you fail at being the center point of the next party. Lie to yourself constantly and tell yourself that you are more warm and gregarious than Ronald Regan. Belief is the first step! Reality will come soon after."},
-    {"thought":"Love is all there is.","description":"If you truly want to be a master of life, let love be in your every action. Love your friends, family and enemies alike. This is the most difficult thing to do out of this entire list, which is why it is listed at #50. But if you accomplish this, you will be seen as a leader among everyone that allows hate, envy, disgust and all other negative emotions into their lives. Think Gandhi. Love is so rare in this world when compared to the massive presence of hate that by exuding love, you will immediately see yourself and the people around you change. Love. Love. Love."},
-    
-    {"thought":"The SECRET", "description":"You are as amazing as you let yourself be. Let me repeat that. You are as amazing as you let yourself be."},
+   {"thought":"The SECRET", "description":"You are as amazing as you let yourself be. Let me repeat that. You are as amazing as you let yourself be."},
     {"thought":"The SECRET", "description":"The only person you are destined to become is the person you decide to be"},
 
-    {"thought":"Get you ass off working", "description":"Opportunity does not knock, it presents itself when you beat down the door."},
+       {"thought":"Get you ass off working", "description":"Opportunity does not knock, it presents itself when you beat down the door."},
     {"thought":"Fire within yourself", "description":"Success isn’t a result of spontaneous combustion. You must set yourself on fire."},
 
-    {"thought":"Don't settle", "description":"Don’t settle. Don’t finish crappy books. If you don’t like the menu, leave the restaurant. If you’re not on the right path, get off it."},
-    {"thought":"The SECRET", "description":"It is our choices that show what we truly are, far more than our abilities. -J.K. Rowling"}
+    {"thought":"Dont settle", "description":"Dont settle. Dont finish crappy books. If you dont like the menu, leave the restaurant. If youre not on the right path, get off it."},
+    {"thought":"Professor Dumbledore", "description":"It is our choices that show what we truly are, far more than our abilities. -J.K. Rowling"},
+
 
     {"thought":"Try harder", "description":"If your ship doesn’t come in, swim out to it."},
     {"thought":"At least I tried", "description":"You get older and you learn there is one sentence, just four words long, and if you can say it to yourself it offers more comfort than almost any other. It goes like this: At least I tried."},
@@ -100,17 +98,24 @@
     {"thought":"True story", "description":"If you could kick the person in the pants responsible for most of your trouble, you wouldn’t sit for a month."},
 
     {"thought":"Value what you have already", "description":"Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don’t."},
-    {"thought":"couldn't find any title", "description":"You don’t have a right to the cards you believe you should have been dealt with. You have an obligation to play the hell out of the ones you’re holding."},
+    {"thought":"couldnt find any title", "description":"You don’t have a right to the cards you believe you should have been dealt with. You have an obligation to play the hell out of the ones you’re holding."},
     {"thought":"Fire within yourself", "description":"In the midst of winter, I found there was, within me, an invincible summer."},
 
     {"thought":"Fire within yourself", "description":"I survived because the fire inside me burned brighter than the fire around me."},
     {"thought":"The favourite one", "description":"Set a goal that makes you jump out of the bed in the morning"},
 
     {"thought":"Answer should be nothing", "description":"WHat would you do differently if you knew, nobody would judge you?"},
-    {"thought":"It's celebration time", "description":"Do you celebrate the things you already have"},
+    {"thought":"Its celebration time", "description":"Do you celebrate the things you already have"},
 
     {"thought":"Answer should be nothing", "description":"If you could do it all over again, would you change anything?"},
-    {"thought":"The biggest achievement", "description":"The biggest achievement in  your life is when people start following your words and you as well."}
+    {"thought":"The biggest achievement", "description":"The biggest achievement in  your life is when people start following your words and you as well."},
+
+    {"thought":"Develop a charismatic personality.","description":"You know, the kind of personality that is surrounded by people constantly and is the life of the party. Start visualizing yourself as THAT person. Maybe take a short course on dynamic speaking and learn some jokes. Take the time to learn some party tricks and sleight of hand. Most importantly, believe that you already are charismatic even if you fail at being the center point of the next party. Lie to yourself constantly and tell yourself that you are more warm and gregarious than Ronald Regan. Belief is the first step! Reality will come soon after."},
+    {"thought":"Love is all there is.","description":"If you truly want to be a master of life, let love be in your every action. Love your friends, family and enemies alike. This is the most difficult thing to do out of this entire list, which is why it is listed at #50. But if you accomplish this, you will be seen as a leader among everyone that allows hate, envy, disgust and all other negative emotions into their lives. Think Gandhi. Love is so rare in this world when compared to the massive presence of hate that by exuding love, you will immediately see yourself and the people around you change. Love. Love. Love."}
+
+
+
+
 
    
 ]}
